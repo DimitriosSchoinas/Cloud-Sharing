@@ -1,0 +1,2 @@
+# Cloud Sharing
+ The objective of this work is the development of an application that allows the management of a system for storing files in the cloud (e.g. Dropbox). Every registered user has access to an account where you can add files, and this account has a maximum capacity which cannot be exceeded. The files stored in the system can be consulted through of a website. Furthermore, it is also possible to share files with other users registered
